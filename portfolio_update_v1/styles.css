@@ -205,3 +205,21 @@ a.social:hover {
 
 }
 
+/* Styles for experience.html */
+
+.job {
+  min-width: 300px;
+  text-align: center;
+}
+
+#header-xp {
+  text-align: center;
+  background: url('images/background-4.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
+#lang li {
+  background-color: red;
+}
