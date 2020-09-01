@@ -57,7 +57,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('images/background2.jpg') no-repeat top center ;
+  background: url('images/background-home.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -207,14 +207,14 @@ a.social:hover {
 
 /* Styles for experience.html */
 
-.job {
+.wid-xp {
   min-width: 300px;
   text-align: center;
 }
 
 #header-xp {
   text-align: center;
-  background: url('images/background-4.jpg') no-repeat top center ;
+  background: url('images/background-xp.jpg') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -222,4 +222,36 @@ a.social:hover {
 
 #lang li {
   background-color: red;
+}
+
+#prof-img-xp {
+  border: solid orange 2px;
+  border-radius: 40%;
+}
+
+/* Styles for interests.html */
+
+#header-int {
+  text-align: center;
+  background: url('images/background-ints.jpg') no-repeat top center ;
+  background-size: cover;
+  overflow: hidden;
+  padding-top: 60px;
+}
+
+#img-oregon {
+  height: 100px;
+  width: 100px;
+  float: right;
+  border-radius: 30%;
+}
+
+.wid-ints {
+  min-width: 300px;
+}
+
+#img-lit {
+  height: 150px;
+  width: 300px;
+  border-radius: 40%;
 }
